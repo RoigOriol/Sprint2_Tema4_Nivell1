@@ -13,3 +13,4 @@ echo PHP_EOL;
 $empleat2 = new Employee();
 $empleat2->initialize("Pepito Perez", 4000);
 $empleat2->print();
+?>
